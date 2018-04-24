@@ -5,7 +5,7 @@ Language is a key part of any family, community, culture and the human race. Wit
 
 ### And with that said
 
-We the, a group of goofies, will offer you a new way to communicate.
+We, a group of goofies, will offer you a new way to communicate.
 
 *Goofy isn't just a language.*
 
@@ -53,8 +53,8 @@ Many thanks to all our [wonderful sponsors][sponsors], and in particular to our 
 [group]: https://groups.google.com/forum/?fromgroups#!forum/django-rest-framework
 [sandbox]: https://restframework.herokuapp.com/
 
-[funding]: https://fund.django-rest-framework.org/topics/funding/
-[sponsors]: https://fund.django-rest-framework.org/topics/funding/#our-sponsors
+[funding]: https://fund.goofy.org/topics/funding/
+[sponsors]: https://fund.goofy.org/topics/funding/#our-sponsors
 
 [rover-img]: https://raw.githubusercontent.com/encode/django-rest-framework/master/docs/img/premium/rover-readme.png
 [sentry-img]: https://raw.githubusercontent.com/encode/django-rest-framework/master/docs/img/premium/sentry-readme.png
