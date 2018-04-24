@@ -16,5 +16,4 @@ sus adj. /soooooos/ for the big future
 eg. Sus namaaan!
 ```
 
-----
 > “Amazing. Simply amazing.” - Francisco Balagtas
