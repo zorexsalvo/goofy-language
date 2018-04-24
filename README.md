@@ -10,13 +10,11 @@ We the, a group of goofy, will offer you a new way to communicate.
 
 > Goofy is about progress.
 
-----
-> “Amazing. Simply amazing.” - Francisco Balagtas
-----
-
-### Goofy Dictionary
+### The Goofy-Dictionary
 ```
 sus adj. /soooooos/ for the big future
 eg. Sus namaaan!
 ```
 
+----
+> “Amazing. Simply amazing.” - Francisco Balagtas
