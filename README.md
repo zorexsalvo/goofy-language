@@ -7,7 +7,6 @@ Language is a key part of any family, community, culture and the human race. Wit
 We the, a group of goofy, will offer you a new way to communicate.
 
 > Goofy isn't just a language.
-
 > Goofy is about progress.
 
 ### The Goofy-Dictionary
