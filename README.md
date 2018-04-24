@@ -1,1 +1,1 @@
-# goofy-language
+# Goofy: The Revolutionary Language
